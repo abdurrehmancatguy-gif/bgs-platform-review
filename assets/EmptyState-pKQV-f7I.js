@@ -1,0 +1,1 @@
+import{_ as e,b as t,mt as n,tr as r,xt as i}from"./runtime-core.esm-bundler-B8D2lM98.js";var a={class:`flex flex-col items-center justify-center gap-3 px-4 py-16 text-center`},o={class:`text-base text-ink-gray-6`},s={__name:`EmptyState`,props:{message:String},setup(s){return(c,l)=>(n(),t(`div`,a,[e(`p`,o,r(s.message),1),i(c.$slots,`default`)]))}};export{s as t};
