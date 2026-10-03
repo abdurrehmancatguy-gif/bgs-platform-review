@@ -1,0 +1,1 @@
+import{D as e,b as t,mt as n}from"./runtime-core.esm-bundler-B8D2lM98.js";import{t as r}from"./index-mLxbkDd0.js";var i={class:`mx-auto h-full max-w-3xl border-x border-outline-gray-1`},a={__name:`TaskPage`,props:{name:String},setup(a){return(o,s)=>(n(),t(`div`,i,[e(r,{name:a.name,class:`h-full`},null,8,[`name`])]))}};export{a as default};
