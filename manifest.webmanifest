@@ -1,0 +1,19 @@
+{
+  "name": "BGS",
+  "short_name": "BGS",
+  "description": "BGS Group operating system: work, sales, operations and more.",
+  "start_url": "/bgs/",
+  "scope": "/bgs/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1f4fd8",
+  "icons": [
+    { "src": "/assets/bgs_core/frontend/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/bgs_core/frontend/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "shortcuts": [
+    { "name": "My Work", "url": "/bgs/my-work" },
+    { "name": "Inbox", "url": "/bgs/inbox" },
+    { "name": "Attendance", "url": "/bgs/attendance" }
+  ]
+}
